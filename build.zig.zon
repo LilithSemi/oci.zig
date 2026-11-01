@@ -1,0 +1,11 @@
+.{
+    .name = .oci,
+    .version = "0.1.0",
+    .minimum_zig_version = "0.17.0",
+    .fingerprint = 0xc674b497026e8359,
+    .paths = .{
+        "build.zig.zon",
+        "build.zig",
+        "lib",
+    },
+}
